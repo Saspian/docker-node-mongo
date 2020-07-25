@@ -2,8 +2,10 @@
 A simple node app and mongo running on different container and composed.
 
 ## Available Scripts
-to run
+The App runs on localhost(Default localhost:80), however to know in depth about the port used, please look at docker-compose.yml file
+
+To run
 ### `docker compose up`
 
-to run in background
+To run in background
 ### `docker compose up -d`
